@@ -1,0 +1,23 @@
+{
+  "name": "FocusFuel – The Productivity Lounge",
+  "short_name": "FocusFuel",
+  "description": "A Calm Space to Power Your Study & Work Sessions.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#FDFDFB",
+  "theme_color": "#1a2a45",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/1a2a45/ffffff?text=FF",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/1a2a45/ffffff?text=FF",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
